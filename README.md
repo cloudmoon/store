@@ -15,18 +15,18 @@
 ```
 
 ##### 截图：
-主页：
+##### 主页：
 <img src="https://github.com/cloudmoon/store/blob/master/screenshot/index.png" width=350 height=275>
-店铺详情1：
+##### 店铺详情1：
 <img src="https://github.com/cloudmoon/store/blob/master/screenshot/store.png" width=350 height=275>
-店铺详情2：
+##### 店铺详情2：
 <img src="https://github.com/cloudmoon/store/blob/master/screenshot/store2.png" width=350 height=275>
-分类：
+##### 分类：
 <img src="https://github.com/cloudmoon/store/blob/master/screenshot/tags.png" width=350 height=275>
-排名：
+##### 排名：
 <img src="https://github.com/cloudmoon/store/blob/master/screenshot/rank.png" width=350 height=275>
-地理位置搜索：
+##### 地理位置搜索：
 <img src="https://github.com/cloudmoon/store/blob/master/screenshot/map.png" width=350 height=275>
-编辑：
+##### 编辑：
 <img src="https://github.com/cloudmoon/store/blob/master/screenshot/edit.png" width=350 height=275>
 
